@@ -65,7 +65,7 @@ nav a:hover {
 
 #hero-section {
     position: relative; /* Garante que o conteúdo sobreposto fique sobre o vídeo */
-    color: #fff; /* Cor do texto para melhor contraste */
+    color: #333; /* Cor do texto para melhor contraste */
     padding: 50px 0;
     text-align: center;
 }
